@@ -1,0 +1,15 @@
+C:\Users\Dmitrii\Desktop\seminar_csharp\obj\Debug\net6.0\seminar_csharp.csproj.AssemblyReference.cache
+C:\Users\Dmitrii\Desktop\seminar_csharp\obj\Debug\net6.0\seminar_csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dmitrii\Desktop\seminar_csharp\obj\Debug\net6.0\seminar_csharp.AssemblyInfoInputs.cache
+C:\Users\Dmitrii\Desktop\seminar_csharp\obj\Debug\net6.0\seminar_csharp.AssemblyInfo.cs
+C:\Users\Dmitrii\Desktop\seminar_csharp\obj\Debug\net6.0\seminar_csharp.csproj.CoreCompileInputs.cache
+C:\Users\Dmitrii\Desktop\seminar_csharp\bin\Debug\net6.0\seminar_csharp.exe
+C:\Users\Dmitrii\Desktop\seminar_csharp\bin\Debug\net6.0\seminar_csharp.deps.json
+C:\Users\Dmitrii\Desktop\seminar_csharp\bin\Debug\net6.0\seminar_csharp.runtimeconfig.json
+C:\Users\Dmitrii\Desktop\seminar_csharp\bin\Debug\net6.0\seminar_csharp.dll
+C:\Users\Dmitrii\Desktop\seminar_csharp\bin\Debug\net6.0\seminar_csharp.pdb
+C:\Users\Dmitrii\Desktop\seminar_csharp\obj\Debug\net6.0\seminar_csharp.dll
+C:\Users\Dmitrii\Desktop\seminar_csharp\obj\Debug\net6.0\refint\seminar_csharp.dll
+C:\Users\Dmitrii\Desktop\seminar_csharp\obj\Debug\net6.0\seminar_csharp.pdb
+C:\Users\Dmitrii\Desktop\seminar_csharp\obj\Debug\net6.0\seminar_csharp.genruntimeconfig.cache
+C:\Users\Dmitrii\Desktop\seminar_csharp\obj\Debug\net6.0\ref\seminar_csharp.dll
