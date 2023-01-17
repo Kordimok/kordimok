@@ -85,4 +85,4 @@
 Console.Write("Введи трехзначное число :  ");
 int num3 = int.Parse(Console.ReadLine () );
 int ost = num3 % 10;
-Console.Write(ost); 
+Console.Write(ost);  
