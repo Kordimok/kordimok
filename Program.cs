@@ -82,7 +82,55 @@
 
 //необходимо написать программу которая принимает на вход 3х значное число и на выходе показыват последню цифру этого числа
 
-Console.Write("Введи трехзначное число :  ");
-int num3 = int.Parse(Console.ReadLine () );
-int ost = num3 % 10;
-Console.Write(ost);  
+// Console.Write("Введи трехзначное число :  ");
+// int num3 = int.Parse(Console.ReadLine () );
+// int ost = num3 % 10;
+// Console.Write(ost);  
+
+// _______________________________________________________
+//                                          ДЗ 1 семинар
+
+// Задача 2. Напишите программу, которая на вход принимает два числа и выдаёт, какое число большее, а какое меньшее.
+
+// a = 5; b = 7 -> max = 7
+// a = 2 b = 10 -> max = 10
+// a = -9 b = -3 -> max = -3
+
+// Console.Write ("Введите число a : ");
+// int a = int.Parse(Console.ReadLine ( )!);
+// Console.Write ("Введите число b : ");
+// int b = int.Parse(Console.ReadLine ( )!);
+// if (a > b) 
+// {
+//     Console.WriteLine($"Максимальное число {a} ");
+// }
+// else
+// {
+//     Console.WriteLine($"Максимальное число {b} ");
+// }
+// if (a < b) 
+// {
+//     Console.WriteLine($"Минимальное число {a} ");
+// }
+// else
+// {
+//     Console.WriteLine($"Минимальное  число {b} ");
+}
+// _________________________________________________________
+
+// Задача 4: Напишите программу, которая принимает на вход три числа и выдаёт максимальное из этих чисел.
+
+// 2, 3, 7 -> 7
+// 44 5 78 -> 78
+// 22 3 9 -> 22
+Console.Write ("Введите первое число  : ");
+int a = int.Parse(Console.ReadLine ( )!);
+Console.Write ("Введите второе число  : ");
+int b = int.Parse(Console.ReadLine ( )!);
+Console.Write ("Введите третье число  : ");
+int c = int.Parse(Console.ReadLine ( )!);
+
+int maximal = Math.Max(Math.Max(a, b), c);
+int minimal = Math.Min(Math.Min(a, b), c);
+
+Console.WriteLine($"Максимально число {maximal} ");
